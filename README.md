@@ -1,0 +1,7 @@
+# D-G2CAM 2026
+
+융복합지식학회 논문(When/Where 강건성 실험) 원고, 실험 노트북·스크립트, 결과 데이터.
+
+- `paper/` 논문 원고(HWP/DOCX/PDF), 그림, 발표 자료
+- `accident-pilot/` 실험 노트북, 스크립트, 50개 영상 결과(`results_n50/`)
+- `knowledge/` 교수님 미팅·결정사항 정리

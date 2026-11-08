@@ -1,0 +1,5 @@
+[["E1","L = {v cdot t_e} over d",900],["L","L",900],["v","v",900],["te","t_e",900],["d","d",900],
+["T2a","exp left( - {( hat{t} - t^*)^2} over {2 sigma_t ^2} right) ,~ sigma_t = 1 rm s",850],
+["T2b","exp left( - {{ Delta x}^2} over {2 sigma_x ^2} - {{ Delta y}^2} over {2 sigma_y ^2} right)",850],
+["T2c","{P_원본 - P_열화} over P_원본 times 100",850],
+["Tt","T",850],["Ts","S",850],["Trt","rm RPD _{it T}",850],["Trs","rm RPD _{it S}",850]]

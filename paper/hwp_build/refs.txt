@@ -1,0 +1,8 @@
+[1] 마르와 차차 안드레아, 이충권, 김양석, 노미진, 문상일, 신재호, “YOLO v8을 활용한 컴퓨터 비전 기반 교통사고 탐지”, 한국산업정보학회논문지, 제29권, 제1호, pp. 91-105, 2024.
+[2] L. Picek, M. Čermák, M. Hanzl, V. Čermák, “ACCIDENT: A Benchmark Dataset for Vehicle Accident Detection from Traffic Surveillance Videos”, Proc. of IEEE/CVF Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW), 2026.
+[3] M. O’Byrne, M. Sugrue, Vibhoothi, A. Kokaram, “Impact of Video Compression on the Performance of Object Detection Systems for Surveillance Applications”, Proc. of IEEE Int. Conf. on Advanced Video and Signal Based Surveillance (AVSS), 2022.
+[4] J. Cai, Y. Gao, J. Tang, “Robustness Benchmark Evaluation and Optimization for Real-Time Vehicle Detection under Multiple Adverse Conditions”, Applied Sciences, Vol. 15, No. 9, 4950, 2025.
+[5] 윤영두, 김호, “영상 데이터 감쇄에 따른 보행자·차량 객체 탐지AI 신뢰도의 비선형적 성능 저하 메커니즘과 정량적 변곡점 규명: COCO 데이터 세트 기반 YOLOv8 사례연구”, 한국콘텐츠학회논문지, 제26권, 제8호, pp. 71-85, 2026.
+[6] M. Deitke et al., “Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models”, Proc. of IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), pp. 91-104, 2025.
+[7] 권오설, “원격 영상에서 심층 잔차 밀집 기반의 초고해상도 기법을 이용한 차량 검출 알고리즘”, 방송공학회논문지, 제28권, 제1호, pp. 124-131, 2023.
+[8] M. Poyser, A. Atapour-Abarghouei, T. P. Breckon, “On the Impact of Lossy Image and Video Compression on the Performance of Deep Convolutional Neural Network Architectures”, Proc. of 25th Int. Conf. on Pattern Recognition (ICPR 2020), pp. 2830-2837, 2021.
